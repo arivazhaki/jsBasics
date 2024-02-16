@@ -1,0 +1,23 @@
+let iceCreams = [
+    {
+        flavor:"chocolate",
+        price:10,
+        popularityScore:100
+    },
+    {
+        flavor:"strawberry",
+        price:15,
+        popularityScore:200
+    },
+    {
+        flavor:"vanilla",
+        price:5,
+        popularityScore:50
+    },
+    {
+        flavor:"butterscotch",
+        price:20,
+        popularityScore:150
+    }
+];
+console.log(iceCreams);
