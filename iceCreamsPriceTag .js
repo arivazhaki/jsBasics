@@ -20,4 +20,4 @@ let iceCreams = [
         popularityScore:150
     }
 ];
-console.log(iceCreams);
+console.table(iceCreams);
